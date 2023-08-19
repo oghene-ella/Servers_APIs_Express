@@ -4,7 +4,8 @@
   "description": "Using the express framework, build a web server to render html files",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:main": "nodemon main.js"
   },
   "repository": {
     "type": "git",
