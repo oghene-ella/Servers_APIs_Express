@@ -1,0 +1,22 @@
+{
+  "name": "question_1_express_js",
+  "version": "1.0.0",
+  "description": "Using the express framework, build a web server to render html files",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oghene-ella/Servers_APIs_Express.git"
+  },
+  "author": "Ellahhh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oghene-ella/Servers_APIs_Express/issues"
+  },
+  "homepage": "https://github.com/oghene-ella/Servers_APIs_Express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
