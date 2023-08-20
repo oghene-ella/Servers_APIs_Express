@@ -22,7 +22,7 @@ const deleteData = (req, res) => {
 	fs.writeFile(dbFile, JSON.stringify(the_data), (error) => {
 		if (error) {
 			res.status(500);
-			res.end("update not successful");
+			res.end("deletion was not successful");
 		}
 
 		res.status(200);
